@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#9c27b0</color>-->
+    <!--<color name="colorPrimaryDark">#6a0080</color>-->
+    <!--<color name="colorPrimaryLight">#d05ce3</color>-->
+
+    <!--<color name="colorAccent">#68efad</color>-->
+    <!--<color name="colorAccentDark">#29bc7d</color>-->
+    <!--<color name="colorAccentLight">#9effdf</color>-->
+
+
+    <color name="colorTextOnS">#000000</color>
+    <color name="colorTextOnP">#ffffff</color>
+
+    <color name="colorGray">#dadada</color>
+    <color name="colorText">#dd9E9E9E</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorGrayPrimary">#9E9E9E</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <!--Trial 2-->
+    <!--<color name="colorPrimary">#e91e63</color>-->
+    <!--<color name="colorPrimaryDark">#b0003a</color>-->
+    <!--<color name="colorPrimaryLight">#ff6090</color>-->
+
+    <!--<color name="colorAccent">#00bcd4</color>-->
+    <!--<color name="colorAccentDark">#008ba3</color>-->
+    <!--<color name="colorAccentLight">#62efff</color>-->
+
+    <!--Trial 3-->
+    <!--<color name="colorPrimary">#00bcd4</color>-->
+    <!--<color name="colorPrimaryDark">#008ba3</color>-->
+    <!--<color name="colorPrimaryLight">#62efff</color>-->
+
+    <!--<color name="colorAccent">#ffeb3b</color>-->
+    <!--<color name="colorAccentDark">#c8b900</color>-->
+    <!--<color name="colorAccentLight">#ffff72</color>-->
+
+    <!--Trial 4-->
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#1b1b1b</color>
+    <color name="colorPrimaryLight">#6d6d6d</color>
+
+    <color name="colorAccent">#ffeb3b</color>
+    <color name="colorAccentDark">#c8b900</color>
+    <color name="colorAccentLight">#ffff72</color>
+</resources>
